@@ -6,7 +6,7 @@ const notes = [
     important: true
   },
   {
-    id: 2,
+    id: 8,
     content: "Browser can execute only Javascript",
     date: "2019-05-30T18:39:34.091Z",
     important: false
